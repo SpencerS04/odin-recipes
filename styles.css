@@ -1,0 +1,21 @@
+* {
+  font-family: "Roboto Mono", "Roboto", sans-serif;
+  background-color: #00261c;
+  color: #96ed89;
+}
+
+h1 {
+  background-color: #044d29;
+  color: #96ed89;
+  text-align: center;
+  font-weight: 500;
+  font-size: 50px;
+}
+
+ul {
+  text-align: left;
+}
+
+a {
+  font-size: 30px;
+}
